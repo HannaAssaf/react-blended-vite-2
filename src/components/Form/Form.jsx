@@ -1,8 +1,5 @@
 import { FiSearch } from 'react-icons/fi';
-import React, { useRef } from 'react';
-// import { Formik, Form, Field, ErrorMessage } from 'formik';
-// import * as Yup from 'yup';
-// import { useId } from 'react';
+import { useRef } from 'react';
 import style from '../Form/Form.module.css';
 
 const Form = ({ onSubmit }) => {
